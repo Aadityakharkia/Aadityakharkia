@@ -81,7 +81,6 @@
 
 <br/>  
 
-![Galaxy Toolshed (created date)](https://img.shields.io/galaxytoolshed/created-date/https://github.com/Aadityakharkia/Aadityakharkia/a)
 
 ----
 
