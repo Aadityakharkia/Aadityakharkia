@@ -47,10 +47,6 @@
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31hy4sc4bs3jzwwwi2zconm5veou&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)
-
 </td></tr></table>  
 
 <br/>  
